@@ -1,2 +1,4 @@
 * [Home](/)
-* [ASM](ASM.md)
+* Projects
+	* [ASM](ASM.md)
+* [Photos](photos.md)
